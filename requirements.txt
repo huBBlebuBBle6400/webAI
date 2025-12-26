@@ -1,0 +1,8 @@
+streamlit
+sympy
+matplotlib
+numpy
+ipython
+openai
+python-dotenv
+pillow
